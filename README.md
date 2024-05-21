@@ -17,7 +17,7 @@ The Work Day Scheduler is a simple calendar application that allows users to sav
 1. Clone the repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/jahncalabrese/work-day-scheduler.git
+    git clone https://github.com/jahncalabrese/daily-planner-API-project.git
     ```
 
 2. Navigate to the project directory:
